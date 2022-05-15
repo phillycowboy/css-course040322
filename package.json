@@ -1,0 +1,10 @@
+{
+    "name": "udemy-css-course",
+    "version": "1.0.0",
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    },
+    "scripts":{
+        "start": "live-server"
+    }
+}
